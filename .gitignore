@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.neurovista_shared_state_*
+.venv/
+.env
